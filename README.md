@@ -66,12 +66,11 @@ O pipeline foi desenvolvido para:
 ```
 
 ## 🔄 Visão geral do pipeline
-         
-1- change_name.sh → Renomear PDB (mini_0.pdb → mini_0.0.pdb)
-2- run_distances_tetra.sh → Calcular distâncias tetraméricas
-3- run_distances_tri.sh → Calcular distâncias triméricas
-4- awk_dist.sh (opcional) → Processar e resumir dados
-5- pca_v1.py → Análise PCA e visualização
+* change_name.sh → Renomear PDB (mini_0.pdb → mini_0.0.pdb)
+* run_distances_tetra.sh → Calcular distâncias tetraméricas
+* run_distances_tri.sh → Calcular distâncias triméricas
+* awk_dist.sh (opcional) → Processar e resumir dados
+* pca_v1.py → Análise PCA e visualização
          
 
 ---
