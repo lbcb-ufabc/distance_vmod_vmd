@@ -9,7 +9,7 @@ Yolanda Marcello
 ---
 ## ⚙️ Requisitos
 Os requisitos estão disponíveis em:
-[Requirements](link)
+[Requirements](https://github.com/lbcb-ufabc/distance_vmod_vmd/blob/main/requirements.md)
 
 ---
 ## ▶️ Como executar
